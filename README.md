@@ -1,2 +1,13 @@
-# UNse_website
-Personal development website using Hugo
+# UNse
+Websites using Hugo
+
+---
+
+## member
+* Ory
+* RL
+
+## file configuration
+
+
+## release procedures
